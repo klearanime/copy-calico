@@ -1,0 +1,130 @@
+  #button1 {
+    border: none;
+    background-color: white;
+    font-size: 14px;
+  }
+  
+  #button2{
+    margin-right: 500px;
+    margin-top: 20px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+  }
+  
+  #button3 {
+    margin-left: 290px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+  }
+  
+  #button4{
+    margin-left: 0px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+  }
+  
+  ul {
+    float:right 
+  }
+  
+  /* takes away the bullets & position the box*/
+  ul {
+    list-style-type: none;
+    margin: 20px 60px 0px -10px;
+    font-weight: 1000;
+    font-size: 16px;
+  }
+  
+  /* closes space between lines */
+  li {
+    margin: -11px;
+  }
+  
+  .dot {
+    height: 35px;
+    width: 35px;
+    background-color: brown;
+    border-radius: 50%;
+    float: right;
+    margin-top: -35px;
+    margin-right: 0px;
+  }
+  head{
+    position:fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+
+  img {
+    width: 350px;
+    height: 90px;
+    margin-left: 390px;
+    margin-top: 45px;
+  }
+
+  textarea {
+    width: 490px;
+    margin-left: 310px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+  }
+  
+  #ba {
+    font-size: 17px;
+    margin-left: 415px;
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(243, 243, 243);
+  }
+  
+  #da {
+    font-size: 17px;
+    border: none;
+    background-color: rgb(243, 243, 243)
+  }
+
+  footer {
+    /* position: fixed; */
+    margin-top: 950px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(223, 223, 223);
+  }
+  
+  #button5 {
+    border: none;
+    background-color: rgb(223, 223, 223)
+  }
+
+  #button6 {
+    border: none;
+    background-color: rgb(223, 223, 223)
+  }
+
+  #button7 {
+    margin-right: 650px;
+    border: none;
+    background-color: rgb(223, 223, 223)
+  }
+
+  #button8 {
+    border: none;
+    background-color: rgb(223, 223, 223)
+  }
+
+  #button9 {
+    border: none;
+    background-color: rgb(223, 223, 223)
+  }
+
+  #button10 {
+    border: none;
+    background-color: rgb(223, 223, 223)
+  }
